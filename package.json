@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@builder.io/sdk-vue": "^0.7.0",
+    "@builder.io/widgets": "^1.2.24"
+  }
+}
